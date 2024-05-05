@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.7;
+    background-color: white;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: poppins;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.hero{
+    background-color: #7a52d7;
+    height: 100vh;
+    width: 60%;
+    box-shadow: 10px 2px 0px 4px rgba(137,137,137,0.27);
+    -webkit-box-shadow: 10px 2px 0px 4px rgba(137,137,137,0.27);
+    -moz-box-shadow: 10px 2px 0px 4px rgba(137,137,137,0.27);
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero img{
+    height: auto;
+    width: 250px;
+}
+
+.hero__content{
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.hero__content img{
+    margin-top: 5rem;
+}
+
+.hero__content h5{
+    padding-top: 7rem;
+    color: white;
+}
+
+
+/* ########### side ################ */
+
+.side{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10rem;
+}
+
+
+/* #################################################### */
+
+form .input-data{
+  width: 100%;
+  height: 40px;
+  margin: 0 0px;
+  position: relative;
+}
+.input-data input,
+.textarea textarea{
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: none;
+  font-size: 17px;
+  border-bottom: 2px solid rgba(0,0,0, 0.12);
+}
+.input-data input:focus ~ label, .textarea textarea:focus ~ label,
+.input-data input:valid ~ label, .textarea textarea:valid ~ label{
+  transform: translateY(-20px);
+  font-size: 14px;
+  color: #3498db;
+}
+
+.input-data label{
+  position: absolute;
+  pointer-events: none;
+  bottom: 10px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.input-data .underline{
+  position: absolute;
+  bottom: 0;
+  height: 2px;
+  width: 100%;
+}
+.input-data .underline:before{
+  position: absolute;
+  content: "";
+  height: 2px;
+  width: 100%;
+  background: #3498db;
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.3s ease;
+}
+.input-data input:focus ~ .underline:before,
+.input-data input:valid ~ .underline:before,
+.textarea textarea:focus ~ .underline:before,
+.textarea textarea:valid ~ .underline:before{
+  transform: scale(1);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+/* Styles for the role select box */
+.form-group #role {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+  }
+  
+.btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+.btn input[type="submit"]{
+    height: 50px;
+    width: 200px;
+    background-color: #7a52d7;
+    color: white;
+    border-radius: 30px;
+    font-family: poppins;
+    letter-spacing: 3px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.text h3{
+    color: #7a52d7;
+}
+
+label{
+    color: #7a52d7;
+}
+
+a{
+    font-size: smaller;
+    margin: 10px;
+}
+
+.atag{
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.welcome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #7a52d7;
+    height: 50px;
+    width: 300px;
+    border-radius: 0px 50px 50px 0px;
+    color: white;
+    margin-bottom: 100px;
+}

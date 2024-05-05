@@ -1,0 +1,66 @@
+id,RegisteredName,Registered Email,RegisteredMobile,State,City,Status,registrationfee,RegisteredCampus,School,College,Country,Gender,AssignToCounsellor,AdmissionCategory,IntermediateMarks,Department
+241001,Amit Sharma,amitsharma@example.com,9169069505,Maharashtra,Mumbai,Pending,not paid,Vizianagaram campus,vishwa bharathi public school ,Vignan college,India,Male,Kishore,EAPCET,95.6,ECE
+241002,Priya Patel,priyapatel@example.com,9686200771,Gujarat,Ahmedabad,Accepted,Paid,Vizianagaram campus,geethanjali Public School,Narayana college,India,Female,Sreekar,EAPCET,85.6,CSE
+241003,Rahul Singh,rahulsingh@example.com,9349502251,Uttar Pradesh,Lucknow,Declined,Paid,PKD campus,Vignan Public School,sri chaitanya college,India,Male,Kishore,EAPCET,65,MECH
+241004,Anjali Gupta,anjaligupta@example.com,9554534159,Rajasthan,Jaipur,Accepted,Paid,Vizianagaram campus,kendriya Public School, Surya college,India,Female,Kishore,EAPCET,75,CSE
+241005,Ravi Kumar,ravikumar@example.com,9297949335,Delhi,Delhi,Accepted,not paid,Bhuvaneshwar campus,Bhasyam Public School,st.Anna's college,India,Male,Sreekar,EAPCET,95.3,ECE
+241006,Sneha Mishra,snehamishra@example.com,9743411217,Karnataka,Bangalore,Accepted,not paid,Bhuvaneshwar campus,Narayana Public School,kendriaya college,India,Female,Sreekar,Management Quota,58.3,MECH
+241007,Manish Singh,manishsingh@example.com,9804689338,Madhya Pradesh,Indore,Pending,Paid,Bhuvaneshwar campus,TBR Public School,govt. jr college,India,Male,Praveen,Management Quota,65,CSE
+241008,Pooja Sharma,poojasharma@example.com,9911125342,Maharashtra,Pune,Pending,Paid,PKD campus,Chaitanya Public School,Model college,India,Female,Kishore,Management Quota,85,CSE
+241009,Vikas Verma,vikasverma@example.com,9269003669,Tamil Nadu,Chennai,Accepted,Paid,Vizianagaram campus,Gokul Public School,Gokul college,India,Male,Praveen,Management Quota,12,CSE
+241010,Neha Singh,nehasingh@example.com,9394191391,Uttar Pradesh,Allahabad,Pending,not paid,Vizianagaram campus,CenturionPublic School,bharathi college,India,Female,Sreekar,Management Quota,78,MECH
+241011,Karan Gupta,karangupta@example.com,9207241476,Punjab,Chandigarh,Pending,not paid,PKD campus,laksya Public School,Sri devi coolege,India,Male,Sreekar,EAPCET,89,CSE
+241012,Shreya Patel,shreyapatel@example.com,9265075766,Gujarat,Surat,Accepted,Paid,PKD campus,Model Public School,AVK juniour college,India,Female,Kishore,EAPCET,56.3,CSE
+241013,Arun Kumar,arunkumar@example.com,9675029365,Andhra Pradesh,Hyderabad,Declined,Paid,PKD campus,Ideal Public School,Vasavi college,India,Male,Kishore,EAPCET,75,ECE
+241014,Sakshi Singh,sakshisingh@example.com,9396560057,West Bengal,Kolkata,Accepted,Paid,Bhuvaneshwar campus,vizag Public School,pragathi college,India,Female,Praveen,Management Quota,58,ECE
+241015,Rahul Sharma,rahulsharma@example.com,9462101933,Maharashtra,Nagpur,Pending,Paid,Vizianagaram campus,Neora Public School,Adithya college,India,Male,Sreekar,Management Quota,65,MECH
+241016,Nisha Patel,nishapatel@example.com,9807786697,Gujarat,Vadodara,Declined,not paid,PKD campus,christain Public School,Saraswathi juniour college,India,Female,Praveen,Management Quota,95,ECE
+241017,Sanjay Gupta,sanjaygupta@example.com,9507273483,Uttar Pradesh,Kanpur,Declined,Paid,Bhuvaneshwar campus,Sunflower Public School,Narayana college,India,Male,Kishore,Management Quota,85,CSE
+241018,Ananya Singh,ananyasingh@example.com,9484447046,Rajasthan,Udaipur,Pending,Paid,Vizianagaram campus,NeoraPublic School,Vignan college,India,Female,Praveen,Management Quota,89,CSE
+241019,Rajesh Verma,rajeshverma@example.com,9315972809,Delhi,New Delhi,Pending,Paid,Vizianagaram campus,Vignan Public School,sri chaitanya college,India,Male,Praveen,Management Quota,87,MECH
+241020,Deepika Sharma,deepikasharma@example.com,9232527670,Haryana,Gurgaon,Pending,not paid,Bhuvaneshwar campus,Millennium Public School,Gokul college,India,Female,Sreekar,Management Quota,78.5,MECH
+241021,Rajat Patel,rajatpatel@example.com,9132197733,Gujarat,Rajkot,Pending,Paid,Vizianagaram campus,Vishwa Public School,Pragathi college,India,Male,Kishore,Management Quota,92.4,CSE
+241022,Kritika Singh,kritikasingh@example.com,9346142549,Bihar,Patna,Accepted,Paid,PKD campus,Sunshine Public School,Sri devi college,India,Female,Praveen,EAPCET,82.7,MECH
+241023,Aryan Verma,aryanverma@example.com,9304279195,Uttar Pradesh,Varanasi,Pending,not paid,Vizianagaram campus,Geetanjali Public School,Narayana college,India,Male,Kishore,Management Quota,75.8,CSE
+241024,Neha Gupta,nehagupta@example.com,9975228493,Madhya Pradesh,Bhopal,Accepted,Paid,Bhuvaneshwar campus,Sunrise Public School,AVK junior college,India,Female,Sreekar,EAPCET,67.2,ECE
+241025,Mohit Kumar,mohitkumar@example.com,9815354595,Rajasthan,Jodhpur,Declined,Paid,Vizianagaram campus,Central Public School,Vignan college,India,Male,Praveen,Management Quota,88.3,ECE
+241026,Kavya Sharma,kavyasharma@example.com,9816032806,Punjab,Ludhiana,Pending,not paid,Bhuvaneshwar campus,Bluebell Public School,Pragathi college,India,Female,Kishore,EAPCET,74.6,CSE
+241027,Rohan Singh,rohansingh@example.com,9652159406,Maharashtra,Nashik,Accepted,Paid,Vizianagaram campus,Saraswathi Public School,Vasavi college,India,Male,Sreekar,Management Quota,81.9,CSE
+241028,Isha Verma,ishaverma@example.com,9611509224,Uttar Pradesh,Ghaziabad,Declined,Paid,PKD campus,Royal Public School,Gokul college,India,Female,Praveen,EAPCET,91.5,CSE
+241029,Vishal Patel,vishalpatel@example.com,9557160002,Gujarat,Vadodara,Pending,Paid,Bhuvaneshwar campus,Rainbow Public School,Sri devi college,India,Male,Kishore,Management Quota,76.3,CSE
+241030,Neha Verma,nehaverma@example.com,9968508793,Uttar Pradesh,Ghaziabad,Pending,not paid,PKD campus,Sunshine Public School,Sri Sai college,India,Female,Sreekar,EAPCET,79.5,MECH
+241031,Suresh Kumar,sureshkumar@example.com,9901026454,Tamil Nadu,Coimbatore,Accepted,Paid,Bhuvaneshwar campus,Vani Public School,College,India,Male,Kishore,EAPCET,68.2,CSE
+241032,Meera Devi,meeradevi@example.com,9158451974,Bihar,Patna,Declined,not paid,Vizianagaram campus,Gyan Bharati School,Vignan college,India,Female,Praveen,Management Quota,73.8,CSE
+241033,Rohan Patel,rohanpatel@example.com,9546282782,Gujarat,Vadodara,Pending,Paid,PKD campus,Little Flower School,Narayana college,India,Male,Sreekar,Management Quota,82.1,ECE
+241034,Kavita Sharma,kavitasharma@example.com,9923577763,Maharashtra,Nagpur,Accepted,not paid,Vizianagaram campus,St. Mary's School,sri chaitanya college,India,Female,Kishore,EAPCET,91.4,ECE
+241035,Varun Gupta,varungupta@example.com,9137342884,Uttar Pradesh,Agra,Declined,Paid,Bhuvaneshwar campus,Blue Bells School, Surya college,India,Male,Praveen,Management Quota,76.5,CSE
+241036,Swati Singh,swatisingh@example.com,9307737207,Bihar,Gaya,Accepted,Paid,Vizianagaram campus,City Public School,st.Anna's college,India,Female,Sreekar,Management Quota,84.7,CSE
+241037,Amarjeet Kaur,amarjeetkaur@example.com,9735474488,Punjab,Ludhiana,Pending,not paid,PKD campus,St. Xavier's School,kendriaya college,India,Female,Kishore,EAPCET,77.9,ECE
+241038,Mohan Das,mohandas@example.com,9133281158,Kerala,Kochi,Pending,not paid,Bhuvaneshwar campus,Sacred Heart School,govt. jr college,India,Male,Praveen,Management Quota,88.3,ECE
+241039,Preeti Gupta,preetigupta@example.com,9223039875,Uttar Pradesh,Varanasi,Declined,Paid,Vizianagaram campus,Saraswati Vidya Mandir,Model college,India,Female,Kishore,EAPCET,72.6,ECE
+241040,Ajay Kumar,ajaykumar@example.com,9100875106,Karnataka,Mysore,Accepted,Paid,PKD campus,Green Valley School,Gokul college,India,Male,Sreekar,Management Quota,79.3,ECE
+241041,Nidhi Verma,nidhiverma@example.com,9798563418,Delhi,Faridabad,Pending,Paid,Vizianagaram campus,Modern Public School,bharathi college,India,Female,Kishore,Management Quota,85.2,ECE
+241042,Vivek Singh,viveksingh@example.com,9405034411,Bihar,Bhagalpur,Accepted,not paid,Bhuvaneshwar campus,Vivekananda School,Sri devi coolege,India,Male,Praveen,EAPCET,74.8,CSE
+241043,Simran Kaur,simrankaur@example.com,9158025331,Punjab,Amritsar,Declined,not paid,Vizianagaram campus,Sacred Heart Convent,AVK juniour college,India,Female,Sreekar,Management Quota,80.5,ECE
+241044,Rahul Mehta,rahulmehta@example.com,9177085485,Haryana,Gurgaon,Pending,Paid,PKD campus,DAV Public School,Vasavi college,India,Male,Kishore,Management Quota,93.1,MECH
+241045,Priyanka Das,priyankadas@example.com,9711126745,West Bengal,Howrah,Accepted,Paid,Bhuvaneshwar campus,St. Joseph's School,pragathi college,India,Female,Praveen,EAPCET,68.9,CSE
+241046,Sushant Patel,sushantpatel@example.com,9930926504,Gujarat,Rajkot,Declined,Paid,Vizianagaram campus,St. Xavier's School,Adithya college,India,Male,Sreekar,Management Quota,86.4,MECH
+241047,Deepak Sharma,deepaksharma@example.com,9229676507,Rajasthan,Jodhpur,Pending,not paid,PKD campus,Rajput Public School,Narayana college,India,Male,Kishore,EAPCET,82.7,ECE
+241048,Neha Gupta,nehagupta@example.com,9499636602,Madhya Pradesh,Bhopal,Declined,Paid,Bhuvaneshwar campus,Oxford Public School,Vignan college,India,Female,Praveen,Management Quota,76.2,ECE
+241049,Arjun Singh,arjunsingh@example.com,9380176530,Karnataka,Hubli,Accepted,Paid,Vizianagaram campus,St. John's School,sri chaitanya college,India,Male,Sreekar,EAPCET,89.4,CSE
+241050,Kritika Verma,kritikaverma@example.com,9446072331,Uttar Pradesh,Meerut,Pending,Paid,PKD campus,Bright Future School,Narayana college,India,Female,Kishore,Management Quota,83.8,CSE
+241051,Akash Patel,akashpatel@example.com,9730489481,Gujarat,Gandhinagar,Accepted,not paid,Bhuvaneshwar campus,Swaminarayan School,kendriaya college,India,Male,Praveen,Management Quota,78.5,ECE
+241052,Ritu Sharma,ritusharma@example.com,9464559461,Maharashtra,Thane,Declined,not paid,Vizianagaram campus,Sunrise Public School,Model college,India,Female,Kishore,Management Quota,81.6,CSE
+241053,Vikram Singh,vikramsingh@example.com,9151043646,Haryana,Karnal,Pending,not paid,PKD campus,Shri Ram School,MR college,India,Male,Sreekar,EAPCET,75.9,MECH
+241054,Jyoti Gupta,jyotigupta@example.com,9677507577,Punjab,Patiala,Accepted,Paid,Vizianagaram campus,DAV Public School,Mangala giri college,India,Female,Praveen,EAPCET,88.2,ECE
+241055,Rohit Verma,rohitverma@example.com,9432522824,Rajasthan,Ajmer,Pending,Paid,Bhuvaneshwar campus,Tagore Public School,Narayana college,India,Male,Kishore,Management Quota,79.3,MECH
+241056,Poonam Singh,poonamsingh@example.com,9434881066,Uttar Pradesh,Ghaziabad,Declined,Paid,Vizianagaram campus,St. Teresa's School,AVK juniour college,India,Female,Sreekar,Management Quota,86.7,CSE
+241057,Harish Patel,harishpatel@example.com,9666754245,Gujarat,Bhavnagar,Accepted,not paid,PKD campus,Navyug Public School,Adithya college,India,Male,Praveen,EAPCET,74.1,CSE
+241058,Aarti Sharma,aartisharma@example.com,9675817439,Maharashtra,Nashik,Pending,Paid,Bhuvaneshwar campus,Millennium School,Vasavi college,India,Female,Kishore,Management Quota,90.5,MECH
+241059,Ajay Kumar,ajaykumar@example.com,9151061672,Bihar,Darbhanga,Declined,not paid,Vizianagaram campus,Holy Cross School,siva sakthi coolege,India,Male,Sreekar,Management Quota,77.4,MECH
+241060,Sonali Gupta,sonaligupta@example.com,9611404507,Uttar Pradesh,Agra,Accepted,Paid,PKD campus,City Montessori School,andalamma college,India,Female,Praveen,EAPCET,85.3,MECH
+241061,Deepak Verma,deepakverma@example.com,9228685669,Madhya Pradesh,Jabalpur,Pending,not paid,Vizianagaram campus,Birla Public School,Adithya college,India,Male,Kishore,Management Quota,78.9,ECE
+241062,Renuka Singh,renukasingh@example.com,9910748100,Bihar,Muzaffarpur,Declined,Paid,Bhuvaneshwar campus,St. Francis School,Narayana college,India,Female,Sreekar,Management Quota,82.4,MECH
+241063,Rohan Kumar,rohankumar@example.com,9413858130,Jharkhand,Ranchi,Accepted,Paid,PKD campus,DAV Public School,Vignan college,India,Male,Praveen,EAPCET,79.6,CSE
+241064,Anushka Patel,anushkapatel@example.com,9361683351,Gujarat,Jamnagar,Pending,Paid,Vizianagaram campus,Gurukul School,kendriaya college,India,Female,Kishore,Management Quota,87.8,CSE
+241065,Prakash Singh,prakashsingh@example.com,9697729778,Uttar Pradesh,Kanpur,Declined,not paid,Bhuvaneshwar campus,St. Mary's Convent,bharathi college,India,Male,Sreekar,EAPCET,84.2,ECE

@@ -1,0 +1,18 @@
+id,Registered Name,Registered Email,Registered Mobile,State,City,Status,Registration Fee,Registered Campus,School,College,Country,Gender,Assign to Counsellor,Admission Category,Intermediate Marks,Department
+243001,Rajesh Sharma,rajeshsharma@example.com,9473884001,Punjab,Ludhiana,Accepted,Paid,PKD campus,School of Management,PCTE,India,Male,Praveen,Management Quota,86.5,Accounts
+243002,Sunita Verma,sunitaverma@example.com,9513633707,Uttar Pradesh,Varanasi,Declined,not paid,Bhuvaneshwar campus,School of Management,BHU,India,Female,Kishore,Management Quota,77.3,Accounts
+243003,Ashish Singh,ashishsingh@example.com,9844878577,Bihar,Patna,Pending,Paid,Vizianagaram campus,School of Management,NIT Patna,India,Male,Sreekar,Management Quota,83.9,Accounts
+243004,Ria Gupta,riagupta@example.com,9689304339,Gujarat,Ahmedabad,Declined,Paid,PKD campus,School of Management,CEPT University,India,Female,Praveen,Management Quota,75.8,Accounts
+243005,Rohan Verma,rohanverma@example.com,9353493597,Maharashtra,Pune,Accepted,not paid,Bhuvaneshwar campus,School of Management,Fergusson College,India,Male,Sreekar,Management Quota,84.3,Accounts
+243006,Kirti Sharma,kirtisharma@example.com,9962128195,Rajasthan,Jaipur,Pending,not paid,Vizianagaram campus,School of Management,LNMIIT Jaipur,India,Female,Kishore,Management Quota,88.7,Accounts
+243007,Deepak Singh,deepaksingh@example.com,9295579742,Uttar Pradesh,Agra,Declined,Paid,PKD campus,School of Management,Agra University,India,Male,Praveen,Management Quota,76.2,Accounts
+243008,Trisha Patel,trishapatel@example.com,9614640356,Gujarat,Surat,Accepted,Paid,Vizianagaram campus,School of Management,SVNIT,India,Female,Sreekar,Management Quota,87.8,Accounts
+243009,Ankit Singh,ankitsingh@example.com,9438146362,Bihar,Gaya,Pending,Paid,Bhuvaneshwar campus,School of Management,Magadh University,India,Male,Kishore,Management Quota,82.7,Accounts
+243010,Sonam Gupta,sonamgupta@example.com,9681000582,Maharashtra,Mumbai,Declined,not paid,PKD campus,School of Management,NMIMS,India,Female,Praveen,Management Quota,75.4,Accounts
+243011,Manish Kumar,manishkumar@example.com,9637559663,Rajasthan,Jodhpur,Accepted,not paid,Vizianagaram campus,School of Management,IIT Jodhpur,India,Male,Sreekar,Management Quota,89.1,Accounts
+243012,Anu Singh,anusigh@example.com,9238852475,Uttar Pradesh,Kanpur,Pending,Paid,Bhuvaneshwar campus,School of Management,IIT Kanpur,India,Female,Kishore,Management Quota,87.3,Accounts
+243013,Mohit Patel,mohitpatel@example.com,9908528807,Gujarat,Vadodara,Declined,Paid,Vizianagaram campus,School of Management,MSU Baroda,India,Male,Praveen,Management Quota,78.6,Accounts
+243014,Shikha Sharma,shikhasharma@example.com,9354526968,Maharashtra,Pune,Accepted,not paid,PKD campus,School of Management,Symbiosis Pune,India,Female,Sreekar,Management Quota,84.9,Accounts
+243015,Vivek Kumar,vivekkumar@example.com,9247690531,Bihar,Muzaffarpur,Pending,not paid,Vizianagaram campus,School of Management,B. R. Ambedkar Bihar,India,Male,Kishore,Management Quota,83.2,Accounts
+243016,Rekha Verma,rekhaverma@example.com,9873130375,Uttar Pradesh,Ghaziabad,Declined,not paid,Bhuvaneshwar campus,School of Management,AKGEC,India,Female,Praveen,Management Quota,79.7,Accounts
+243017,Ajay Singh,ajaysingh@example.com,9998895234,Madhya Pradesh,Indore,Accepted,Paid,Vizianagaram campus,School of Management,IIM Indore,India,Male,Sreekar,Management Quota,88.9,Accounts
